@@ -1,2 +1,0 @@
-# SundayAbamjnr
-Start.ng project
